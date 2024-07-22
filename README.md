@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hey, I am Roman Ryltsov 👋
+
+Software engineer with experience and passion in multimedia. The code I wrote over years keeps working in uncountable systems, including those powering Microsoft Xbox Cloud Gaming services.
+
+I put significant effort in supporting other engineers in Microsoft DirectShow and Windows Media Foundation technologies, current, past (and probably future) colleagues keep finding my online posts when solving daily challenges.
 
 <!--
 **roman380/roman380** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
